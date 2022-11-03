@@ -1,0 +1,19 @@
+/* backround rn its a color maybe it be a gradle */
+body {
+    background-color: #201f30;
+}
+/* below is litterally just the word madrod228 at the top of the page */
+.title{
+text-align: center;
+color: white;
+font-family: "Comic Sans MS" ;
+text-shadow: 0px 0px 7px magenta;
+font-size: 40px;
+}
+/* body below */
+.main {
+    background-color: aqua;
+    margin: 3%;
+    box-shadow: 7px 7px;
+    border-radius: 3px;
+}
