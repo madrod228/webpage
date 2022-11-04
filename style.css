@@ -20,4 +20,5 @@ font-size: 40px;
 
 .cattest {
     margin: 10px;
+    transition: all .2 ease-in-out;
 }
