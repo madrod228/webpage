@@ -14,6 +14,7 @@ transform: rotate(360deg);
 }
 .catfish {
     width: 10px;
+    height: 3;
     margin: 3%;
 }
 /* body below */
@@ -26,5 +27,4 @@ transform: rotate(360deg);
 
 .cattest {
     margin: 10px;
-
 }
