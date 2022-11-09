@@ -9,12 +9,14 @@ color: white;
 font-family: "Comic Sans MS" ;
 text-shadow: 0px 0px 7px magenta;
 font-size: 40px;
-transition: all 2s ease-in-out; 
-rotate(360deg); 
 }
 .catfish {
     width: 100px;
     margin: 3%;
+    transform-origin: 1s;
+}
+.catfish:hover {
+    transform: scale(10000);
 }
 /* body below */
 .main {
