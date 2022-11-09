@@ -16,7 +16,7 @@ font-size: 40px;
     transform-origin: 1s;
 }
 .catfish:hover {
-    transform: scale(10000);
+    transform: scale(100);
 }
 /* body below */
 .main {
