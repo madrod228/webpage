@@ -10,8 +10,7 @@ font-family: "Comic Sans MS" ;
 text-shadow: 0px 0px 7px magenta;
 font-size: 40px;
 transition: all 2s ease-in-out; 
-transform: rotate(359); 
-transform: scale(1.1);
+rotate(360); 
 }
 .catfish {
     width: 100px;
@@ -28,3 +27,4 @@ transform: scale(1.1);
 .cattest {
     margin: 10px;
 }
+
