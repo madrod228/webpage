@@ -29,3 +29,7 @@ transform: rotate(180deg);
 }
 
 
+.title:hover {
+    transition: all ease-in-out 2s;
+    transform: rotate(180deg); 
+}
