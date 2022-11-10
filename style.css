@@ -16,9 +16,10 @@ transform: rotate(360deg);
     width: 100px;
     margin: 3%;
     transform-origin: 1s;
+    transition: 2s ease-in-out;
 }
 .catfish:hover {
-    transform: scale(50);
+    transform: scale(30);
 }
 /* body below */
 .main {
