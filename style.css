@@ -9,6 +9,8 @@ color: white;
 font-family: "Comic Sans MS" ;
 text-shadow: 0px 0px 7px magenta;
 font-size: 40px;
+transition: ease-in-out 2s;
+transform: rotate(360deg);
 }
 .catfish {
     width: 100px;
@@ -24,6 +26,7 @@ font-size: 40px;
     margin: 3%;
     box-shadow: 7px 7px;
     border-radius: 3px;
+    transition: ease-in-out 1s;
 }
 
 .cattest {
