@@ -58,7 +58,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    position: fixed;
 }
 
 .projects {
@@ -75,7 +74,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    position: fixed;
 }
 
 .cats:hover {
