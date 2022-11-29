@@ -2,22 +2,23 @@
 body {
     background-color: #201f30;
 }
+
 .the-message {
     color: #201f30;
 }
 
 * {
-   text-decoration: none; 
-   color: black;
+    text-decoration: none;
+    color: black;
 }
 
 /* below is litterally just the word madrod228 at the top of the page */
 .title {
-text-align: center;
-color: white;
-font-family: "Comic Sans MS" ;
-text-shadow: 0px 0px 7px magenta;
-font-size: 40px;
+    text-align: center;
+    color: white;
+    font-family: "Comic Sans MS";
+    text-shadow: 0px 0px 7px magenta;
+    font-size: 40px;
 }
 
 .catfish {
@@ -40,6 +41,7 @@ font-size: 40px;
     border-radius: 3px;
     transition: ease-in-out 1s;
     position: relative;
+    height: 200wh;
 }
 
 .cats {
@@ -56,6 +58,7 @@ font-size: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
+    position: fixed;
 }
 
 .projects {
@@ -72,11 +75,13 @@ font-size: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
+    position: fixed;
 }
 
 .cats:hover {
     background-color: magenta;
 }
+
 .projects:hover {
     background-color: magenta;
 }
