@@ -28,7 +28,7 @@ body {
     transition: 2s ease-in-out;
 }
 
-.catfish:hover {
+.catfish:active {
     transform: scale(30);
 }
 
